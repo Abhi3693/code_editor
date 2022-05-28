@@ -3,7 +3,6 @@
   background-color: rgb(213, 212, 212);
   border-radius: 5px;
   /* margin-top: 3rem; */
-
 }
 .header {
   display: flex;
@@ -45,7 +44,6 @@ h3 {
 }
 .CodeMirror-gutter {
   background-color: rgb(197, 218, 224);
-
 }
 .presentation {
   color: black;
@@ -58,12 +56,12 @@ span {
   font-size: 1rem;
 }
 #body {
-  background-color: rgb(247, 126, 152);
+  background-color: rgb(121, 120, 120);
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .codmirror-holder {
   width: 80%;
-  margin: 1rem auto ;
+  margin: 1rem auto;
 }
 #heading {
   text-align: center;
@@ -76,13 +74,11 @@ span {
   font-size: 1.2rem;
   font-weight: 600;
   color: rgb(3, 74, 121);
-
 }
 .window {
   background-color: rgb(230, 230, 230);
   width: 49%;
   border-radius: 5px;
-  
 }
 .output-header {
   display: flex;
